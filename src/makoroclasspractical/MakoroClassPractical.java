@@ -15,7 +15,7 @@ public class MakoroClassPractical {
         double a = Double.parseDouble(JOptionPane.showInputDialog("Enter Number one"));
         double b = Double.parseDouble(JOptionPane.showInputDialog("Enter Number two"));     
         JOptionPane.showMessageDialog(null,"Sum is: " + (a+b));
-        JOptionPane.showMessageDialog(null,"Average: " + ((a + b)/2));
+        JOptionPane.showMessageDialog(null,"Average: " + ((a + b)/2));//calculate average
         
     }
     
